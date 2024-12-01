@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.10.1)
+  - iOSDropDown (0.4.0)
+  - SwiftyJSON (5.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - iOSDropDown
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSDropDown
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 840d2a1ad82355b536ec6ba5f97e5bfa54600ca3
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+
+PODFILE CHECKSUM: f3de7c7c40da8e2f39e7946c9b350a626298f591
+
+COCOAPODS: 1.16.2
